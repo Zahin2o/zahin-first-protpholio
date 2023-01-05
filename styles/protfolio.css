@@ -6,6 +6,11 @@
     color: #FD6E0A;
 
 }
+.sobi{
+    height:1000;
+    width: 600px;
+  
+}
 .btn-primary{
     height: 64px;
     border-radius: 5px;
@@ -43,11 +48,12 @@ nav li{
  
     display: flex;
     align-items: center;
-    margin: 0 200px;
+    margin: 0 300px;
+    padding: 50px;
 }
 .banner-title{
-    font-weight: 700;
-font-size: 85px;
+    font-weight: 400;
+font-size: 50px;
 
 }
 .banner-subtitle{
@@ -75,8 +81,8 @@ main{
     text-align: center;
     margin-top: 130px;
     background: #FFF8F3;
-border-radius: 10px;
-padding:130px 150px;
+border-radius: 20px;
+padding:400x 400px;
     
 }
 .section-title{
